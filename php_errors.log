@@ -1,0 +1,2 @@
+[04-Dec-2016 08:55:19 America/Los_Angeles] PHP Warning:  oci_execute(): ORA-00904: &quot;P&quot;.&quot;EMAIL&quot;: invalid identifier in /home/stu/kwerts/public_html/MercyMedicalClinic/patients.php on line 162
+[04-Dec-2016 08:55:19 America/Los_Angeles] PHP Warning:  oci_fetch_array(): ORA-24374: define not done before fetch or execute and fetch in /home/stu/kwerts/public_html/MercyMedicalClinic/patients.php on line 164
